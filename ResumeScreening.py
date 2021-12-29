@@ -3,8 +3,6 @@ import pandas as pd
 import nltk
 import tensorflow as tf
 
-!pip install nltk
-
 nltk.download('stopwords')
 
 from nltk.corpus import stopwords
